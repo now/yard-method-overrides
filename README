@@ -1,0 +1,7 @@
+                             YARD Method Overrides
+
+  A YARD plugin that adds tags for specifying method overrides.  The tags added
+  are @extension and @override, which allow you to tag a method as either an
+  extension of a superclass’ definition or a complete override of a superclass’
+  definition.  This makes it easy for the reader to see what’s going on may
+  read up on what may be going on in the superclass.
