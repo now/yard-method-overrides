@@ -3,7 +3,7 @@
 require 'inventory'
 
 module YardMethodOverrides
-  Version = Inventory.new(0, 1, 0){
+  Version = Inventory.new(0, 1, 1){
     def additional_files
       %w'
         templates/default/tags/html/extension.erb
