@@ -7,7 +7,7 @@ require 'yard-method-overrides/version'
 
 Inventory::Rake::Tasks.define YardMethodOverrides::Version, :gem => proc{ |_, s|
   s.author = 'Nikolai Weibull'
-  s.email = 'now@bitwi.se'
+  s.email = 'now@disu.se'
   s.homepage = 'https://github.com/now/yard-method-overrides'
 
   s.add_runtime_dependency 'inventory', '~> 0.2.0'
